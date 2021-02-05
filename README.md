@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Computer Science grad student studying in University of Texas at Arlington. I have Artificial Intelligence and database systems majors in my Masters of Science degree.
+I am a Computer Science grad student studying in University of Texas at Arlington. Artificial Intelligence and Database Systems are the majors of my Masters of Science degree.
 
 I have more than a year of real-world industry experience in the field of software development. I have worked mainly in java related technologies.
 
@@ -9,7 +9,8 @@ I firmly believe in Linus Torvalds’s words, he stated that “Theory and pract
 My area of interest are software engineering, full-stack development, Artificial Intelligence, Cloud Computing  and database management.
 
 ### SKILLS SET 
-Programming Language: Java, Scala, Python, PHP, C++, C
+#### Programming Language:
+Java, Scala, Python, PHP, C++, C
 
 Big Data Ecosystem: Hadoop MapReduce, Apache Hive, Apache Pig, Apache Spark, Apache Pregel
 
