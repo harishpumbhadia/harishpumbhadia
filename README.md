@@ -10,13 +10,23 @@ My area of interest are software engineering, full-stack development, Artificial
 
 ### SKILLS SET 
 Programming Language: Java, Scala, Python, PHP, C++, C
+
 Big Data Ecosystem: Hadoop MapReduce, Apache Hive, Apache Pig, Apache Spark, Apache Pregel
+
 Web Technologies: HTML, CSS, Javascript, React/Redux Js, PHP
+
 Desktop Technologies: Java Swing, Java AWT
+
 Database: MySql, Oracle, Sqlite
+
 Testing Tools: JUnit, JaCoCo, PIT Mutation
+
 Frameworks : Spring, Struts2, MVC, Git, Linux, Laravel, Bootstrap
+
 Operating Systems: Windows, Linux
+
 Version Control System: Git
+
 Other Tools/ Software:  Eclipse , IntelliJ IDEA, Net Beans,PyCharm, jupyter notebook, VSCode, Sublime Text, GitHub, Turbo C++, Microsoft Office.
+
 
