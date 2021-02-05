@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I am a Computer Science grad student studying in University of Texas at Arlington. I have Artificial Intelligence and database systems majors in my Masters of Science degree.
 
 I have more than a year of real-world industry experience in the field of software development. I have worked mainly in java related technologies.
@@ -21,4 +20,3 @@ Operating Systems: Windows, Linux
 Version Control System: Git
 Other Tools/ Software:  Eclipse , IntelliJ IDEA, Net Beans,PyCharm, jupyter notebook, VSCode, Sublime Text, GitHub, Turbo C++, Microsoft Office.
 
--->
