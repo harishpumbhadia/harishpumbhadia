@@ -9,24 +9,24 @@ I firmly believe in Linus Torvalds’s words, he stated that “Theory and pract
 My area of interest are software engineering, full-stack development, Artificial Intelligence, Cloud Computing  and database management.
 
 ### SKILLS SET 
-*Programming Language*: Java, Scala, Python, PHP, C++, C
+**Programming Language** : Java, Scala, Python, PHP, C++, C
 
-Big Data Ecosystem: Hadoop MapReduce, Apache Hive, Apache Pig, Apache Spark, Apache Pregel
+**Big Data Ecosystem** : Hadoop MapReduce, Apache Hive, Apache Pig, Apache Spark, Apache Pregel
 
-Web Technologies: HTML, CSS, Javascript, React/Redux Js, PHP
+**Web Technologies** : HTML, CSS, Javascript, React/Redux Js, PHP
 
-Desktop Technologies: Java Swing, Java AWT
+**Desktop Technologies** : Java Swing, Java AWT
 
-Database: MySql, Oracle, Sqlite
+**Database** : MySql, Oracle, Sqlite
 
-Testing Tools: JUnit, JaCoCo, PIT Mutation
+**Testing Tools** : JUnit, JaCoCo, PIT Mutation
 
-Frameworks : Spring, Struts2, MVC, Git, Linux, Laravel, Bootstrap
+**Frameworks** : Spring, Struts2, MVC, Git, Linux, Laravel, Bootstrap
 
-Operating Systems: Windows, Linux
+**Operating Systems** : Windows, Linux
 
-Version Control System: Git
+**Version Control System** : Git
 
-Other Tools/ Software:  Eclipse , IntelliJ IDEA, Net Beans,PyCharm, jupyter notebook, VSCode, Sublime Text, GitHub, Turbo C++, Microsoft Office.
+**Other Tools/ Software** :  Eclipse , IntelliJ IDEA, Net Beans,PyCharm, jupyter notebook, VSCode, Sublime Text, GitHub, Turbo C++, Microsoft Office.
 
 
