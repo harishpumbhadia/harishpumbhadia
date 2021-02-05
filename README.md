@@ -9,8 +9,7 @@ I firmly believe in Linus Torvalds’s words, he stated that “Theory and pract
 My area of interest are software engineering, full-stack development, Artificial Intelligence, Cloud Computing  and database management.
 
 ### SKILLS SET 
-#### Programming Language:
-Java, Scala, Python, PHP, C++, C
+*Programming Language*: Java, Scala, Python, PHP, C++, C
 
 Big Data Ecosystem: Hadoop MapReduce, Apache Hive, Apache Pig, Apache Spark, Apache Pregel
 
