@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a Computer Science grad student studying in University of Texas at Arlington. Artificial Intelligence and Database Systems are the majors of my Masters of Science degree.
+I am a Computer Science grad student at University of Texas at Arlington, majoring in Artificial Intelligence and Database Systems as part of my Masters of Science degree.
 
-I have more than a year of real-world industry experience in the field of software development. I have worked mainly in java related technologies.
+I have over a year of professional experience in the field of software development and have worked majorly in java related technologies.
 
-I firmly believe in Linus Torvalds’s words, he stated that “Theory and practice sometimes clash. And when that happens, theory loses. Every single time.” As a result, I have many projects in the journey of my undergraduate. It comprises a single webpage, mini-games, web applications, android applications, and management systems.
+I firmly believe in Linus Torvalds’s words, he stated that “Theory and practice sometimes clash. And when that happens, theory loses. Every single time.” As a result, I have managed to create a personal portfolio of software development projects ranging from a single webpage and mini-games to complete web applications, android applications, and management systems. Moreover, I have gained skills in data mining, database design and analysis, and Machine learning model development as part of my masters degree.
 
 My area of interest are Software Engineering, Full-Stack Development, Artificial Intelligence, Cloud Computing  and Database Management.
 
