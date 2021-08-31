@@ -4,7 +4,7 @@ I am a Computer Science grad student at University of Texas at Arlington, majori
 
 I have over a year of professional experience in the field of software development and have worked majorly in java related technologies.
 
-I firmly believe in Linus Torvalds’s words, he stated that “Theory and practice sometimes clash. And when that happens, theory loses. Every single time.” As a result, I have managed to create a personal portfolio of software development projects ranging from a single webpage and mini-games to complete web applications, android applications, and management systems. Moreover, I have gained skills in data mining, database design and analysis, and Machine learning model development as part of my masters degree.
+I firmly believe in Linus Torvalds’s words, he stated that “Theory and practice sometimes clash. And when that happens, theory loses every single time.” As a result, I have managed to create a personal portfolio of software development projects ranging from a single webpage and mini-games to complete web applications, android applications, and management systems. Moreover, I have gained skills in data mining, database design and analysis, and Machine learning model development as part of my masters degree.
 
 My area of interest are Software Engineering, Full-Stack Development, Artificial Intelligence, Cloud Computing  and Database Management.
 
